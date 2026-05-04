@@ -2,6 +2,8 @@
 
 Tải video Facebook (Reels, Watch, Group) từ link private — dùng session Chrome của bạn, không cần nhập mật khẩu.
 
+![FB Video Downloader](assets/screenshot.png)
+
 > ⚠️ **Lưu ý pháp lý:** Chỉ tải video mà bạn **có quyền xem**. Sử dụng cookie trình duyệt để tự động hóa có thể vi phạm [ToS Facebook](https://www.facebook.com/terms.php) mục 3.2. **Chỉ dùng cá nhân, không vi phạm bản quyền.**
 
 ---
